@@ -1,8 +1,8 @@
 ## incident handler's journal
 
-| **Date**          | 13/03/2025                                                       |
+| **Date**          | 12/03/2025                                                       |
 |-------------------|------------------------------------------------------------------|
-| **Description**    | A healthcare clinic was the victim of a ransomware attack following a phishing incident. Employees received emails containing malicious attachments, which, when opened, installed ransomware. The attack encrypted essential files, including medical records, halting the clinic’s operations. |
+| **Description**    | A healthcare clinic fell victim to a ransomware attack after phishing emails installed malware, encrypting crucial files and halting operations. |
 | **Tool(s) used**   | None.                                                           |
-| **The 5 W's**      | **Who:** An organized group of unethical hackers, known for targeting health and transportation sectors. <br> **What:** The incident was caused by phishing emails that, when opened, installed ransomware, encrypting essential files. <br> **When:** The incident occurred on Tuesday morning, around 9:00 AM. <br> **Where:** The attack affected the internal network of the healthcare clinic, where sensitive patient data is stored. <br> **Why:** The attack happened due to a lack of awareness about email security and vulnerability to phishing. |
-| **Additional notes** | - The clinic lacked defenses against phishing, which caused significant disruptions to patient care. <br> - The clinic started working with security experts to investigate the incident and restore data from backups. <br> - Questions about how to improve cybersecurity and prevent future attacks were raised. |
+| **The 5 W's**      | **Who:** Unethical hackers targeting health and transport sectors. <br> **What:** Phishing emails led to ransomware installation and file encryption. <br> **When:** Tuesday morning, around 9:00 AM. <br> **Where:** The healthcare clinic's internal network. <br> **Why:** Lack of email security awareness and vulnerability to phishing. |
+| **Additional notes** | - The clinic had no defense against phishing, disrupting patient care. <br> - Security experts were contacted to restore data from backups. <br> - Questions on improving cybersecurity to prevent future attacks were raised. |

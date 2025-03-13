@@ -1,6 +1,6 @@
 ## incident handler's journal
 
-| **Date**          | 12/03/2025                                                       |
+| **Date 13/03/2025**          | Entry: #1                                                       |
 |-------------------|------------------------------------------------------------------|
 | **Description**    | A healthcare clinic fell victim to a ransomware attack after phishing emails installed malware, encrypting crucial files and halting operations. |
 | **Tool(s) used**   | None.                                                           |

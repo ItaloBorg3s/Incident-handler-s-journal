@@ -1,4 +1,4 @@
-Here's the incident handler's journal entry formatted in a table:
+# Here's the incident handler's journal entry formatted in a table:
 
 | **Date**           | **13/03/2025**                                                                                             |
 |--------------------|------------------------------------------------------------------------------------------------------------|

@@ -1,6 +1,6 @@
-# Here's the incident handler's journal entry formatted in a table:
+## incident handler's journal
 
-| **Date**          | 12/03/2025                                                       |
+| **Date**          | 13/03/2025                                                       |
 |-------------------|------------------------------------------------------------------|
 | **Description**    | A healthcare clinic was the victim of a ransomware attack following a phishing incident. Employees received emails containing malicious attachments, which, when opened, installed ransomware. The attack encrypted essential files, including medical records, halting the clinic’s operations. |
 | **Tool(s) used**   | None.                                                           |

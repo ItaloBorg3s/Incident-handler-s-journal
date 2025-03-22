@@ -1,3 +1,25 @@
+# Network Traffic Analysis & Security Incidents  
+
+This repository documents security investigations and network traffic analysis exercises completed during **Course 6: "Sound the Alarm: Detection and Response"** of the **Google Cybersecurity Certificate**.  
+
+## 📌 Overview  
+The documented cases include:  
+1. **Ransomware Attack Analysis** – Investigation of a phishing-based ransomware attack. *(No tools used)*  
+2. **Wireshark Network Analysis** – Examining HTTP and DNS traffic for security insights.  
+3. **Packet Capture with tcpdump** – Filtering and analyzing HTTP traffic on a Linux VM.  
+4. **SSH Brute Force Detection** – Identifying failed root login attempts using Splunk Cloud.  
+
+Each entry follows the **5W's method** to provide structured analysis and key findings.
+
+## 🛠️ Tools Used  
+- **Splunk Cloud** – Log analysis  
+- **tcpdump** – Packet capture  
+- **Wireshark** – Protocol analysis  
+
+**This project demonstrates hands-on skills in cybersecurity incident response and network analysis.**  
+
+---
+
 # incident handler's journal
 
 | **Date 13/03/2025** | Entry: #1 |

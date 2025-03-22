@@ -1,16 +1,4 @@
-## incident handler's journal
-
-| **Date 13/03/2025**          | Entry: #1                                                       |
-|-------------------|------------------------------------------------------------------|
-| **Description**    | A healthcare clinic fell victim to a ransomware attack after phishing emails installed malware, encrypting crucial files and halting operations. |
-| **Tool(s) used**   | None.                                                           |
-| **The 5 W's**      | **Who:** Unethical hackers targeting health and transport sectors. <br> **What:** Phishing emails led to ransomware installation and file encryption. <br> **When:** Tuesday morning, around 9:00 AM. <br> **Where:** The healthcare clinic's internal network. <br> **Why:** Lack of email security awareness and vulnerability to phishing. |
-| **Additional notes** | - The clinic had no defense against phishing, disrupting patient care. <br> - Security experts were contacted to restore data from backups. <br> - Questions on improving cybersecurity to prevent future attacks were raised. |
-
-
-
-
-
+# incident handler's journal
 
 | **Date 13/03/2025** | Entry: #1 |
 |-------------------|------------------------------------------------------------------|
@@ -30,18 +18,18 @@
 
 ---
 
-| **Date 13/03/2025** | Entry: #3 |
+| **Date 14/03/2025** | Entry: #3 |
 |-------------------|------------------------------------------------------------------|
 | **Description**    | I used **tcpdump** to capture network traffic from the **eth0** interface on a Linux virtual machine. The focus was on capturing HTTP traffic (port 80), filtering it, and saving the data to a packet capture file (**capture.pcap**). I then analyzed the captured packets using **tcpdump**, inspecting both header and content data, including hexadecimal and ASCII formats. |
 | **Tool(s) used**   | tcpdump. |
-| **The 5 W's**      | **Who:** The network analyst performing the packet capture and traffic analysis. <br> **What:** Captured HTTP traffic on port 80, filtered the data using tcpdump, and saved the traffic into a .pcap file for further analysis. <br> **When:** Tasks performed on 21/03/2025 as part of a lab scenario. <br> **Where:** The packet capture occurred on a Linux virtual machine from the eth0 interface. <br> **Why:** To practice network traffic analysis, capture HTTP traffic, and demonstrate packet inspection. |
+| **The 5 W's**      | **Who:** The network analyst performing the packet capture and traffic analysis. <br> **What:** Captured HTTP traffic on port 80, filtered the data using tcpdump, and saved the traffic into a .pcap file for further analysis. <br> **When:** Tasks performed on 14/03/2025 as part of a lab scenario. <br> **Where:** The packet capture occurred on a Linux virtual machine from the eth0 interface. <br> **Why:** To practice network traffic analysis, capture HTTP traffic, and demonstrate packet inspection. |
 | **Additional notes** | - The capture was successful, with 9 HTTP packets saved. <br> - The `-nn` option was used to prevent name resolution, focusing on raw packet data. <br> - The packets were filtered for HTTP traffic and the `-X` option was used to display both hexadecimal and ASCII data. |
 
 ---
 
-| **Date 13/03/2025** | Entry: #4 |
+| **Date 14/03/2025** | Entry: #4 |
 |-------------------|------------------------------------------------------------------|
 | **Description**    | I analyzed network traffic from a packet capture file (**capture.pcap**) using **Wireshark**. I focused on reviewing the contents of HTTP and DNS packets to identify communication patterns, potential security risks, and any abnormalities. |
 | **Tool(s) used**   | Wireshark. |
-| **The 5 W's**      | **Who:** The network analyst analyzing the packet capture. <br> **What:** Analysis of HTTP and DNS packets from a capture file. <br> **When:** Date of analysis was 13/03/2025. <br> **Where:** Analysis performed on the **capture.pcap** file. <br> **Why:** To investigate network traffic and identify any unusual behavior or risks. |
+| **The 5 W's**      | **Who:** The network analyst analyzing the packet capture. <br> **What:** Analysis of HTTP and DNS packets from a capture file. <br> **When:** Date of analysis was 14/03/2025. <br> **Where:** Analysis performed on the **capture.pcap** file. <br> **Why:** To investigate network traffic and identify any unusual behavior or risks. |
 | **Additional notes** | - Key insights were gained from examining HTTP and DNS packets. <br> - Suspicious IP addresses and unexpected DNS queries were identified. <br> - Further analysis will be done to track down potential threats. |
